@@ -2,6 +2,17 @@ Francisco Martins - 2022082
 
 CA - Mobile Development (Mob Dev) + Cloud-based Web Applications (CBWA).
 
+1. INTRODUCTION (CLASS NOTES)
+
+Log into your GitHub account:
+Create a repository called mobdev_CA3
+Prepend the following construct to the URL of our repository:
+https://gitpod.io#
+final link:
+https://gitpod.io#https://github.com/username/mobdev_CA3
+
+
+
 REFERENCES:
 
 1. Ionic Icons:
