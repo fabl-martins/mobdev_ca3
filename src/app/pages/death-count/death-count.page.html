@@ -16,13 +16,14 @@
   </ion-toolbar>
 </ion-header>
 
+
 <ion-content class="ion-padding centered" >
   This Town Ain’t Big Enough for Both of Us
   <ion-list lines="none" >
     <ion-item *ngFor="let deathcount of deathcount | async">
-    <ion-icon name="Skull" ></ion-icon>
+    <ion-icon name="nuclear" ></ion-icon>
     <h2 class="item-content"> {{ deathcount.deathCount }} </h2>
-    <ion-icon name="Skull"></ion-icon>
+    <ion-icon name="nuclear"></ion-icon>
     </ion-item>
     Deaths in the series!! 
 
